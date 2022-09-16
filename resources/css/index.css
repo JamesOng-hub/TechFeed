@@ -1,0 +1,40 @@
+*{
+    /* margin: 0  */
+    font-family: 'Open Sans', sans-serif;
+    /* min-width: 600px;  */
+}
+  
+*, ::after, ::before {
+box-sizing: border-box;
+
+}
+
+
+body{
+    min-width: 375px; 
+    max-width: 1000px;
+    margin: auto !important; 
+    background-color:  #F8F9FA;
+}
+
+
+.custom-accordion-header{
+    border-bottom: 1px solid black; 
+}
+
+.custom-carosel-btn{
+    padding: 5px; 
+    background-color: black;
+    border-radius: 100px;
+}
+
+
+
+.custom-card-img{
+    height: 200px; 
+    object-fit: cover; 
+}
+
+.custom-carousel-inner{
+    padding: 10px 80px; 
+}
