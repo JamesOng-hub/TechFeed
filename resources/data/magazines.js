@@ -4,10 +4,6 @@ magazines = [
     version: "v1",
   },
   {
-    url: "https://vulcanpost.com/feed/",
-    version: "v1",
-  },
-  {
     url: "https://www.technologyreview.com/feed/",
     version: "v1",
   },
